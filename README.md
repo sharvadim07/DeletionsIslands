@@ -7,7 +7,7 @@ The genome deletions (junctions) are defined by two coordinates (Start, End), fr
 The main script named fdNE.py. 
 It performs two steps: 
 1. Finding neighborhoods of deletions;
-2. Calculating of significance of each neighborhoods throught all groups (passages).
+2. Calculating of significance of each neighborhoods across all groups (passages).
 
 ## How to use 
 ```
